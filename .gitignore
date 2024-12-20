@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+# .vs Folder
+.vs/
+
 # Precompiled Headers
 *.gch
 *.pch
