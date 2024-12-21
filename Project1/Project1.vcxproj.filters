@@ -194,6 +194,9 @@
     <ClInclude Include="SimpleMath\SimpleMath.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Shaders\Shared.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="dxc\bin\x64\dxcompiler.dll" />

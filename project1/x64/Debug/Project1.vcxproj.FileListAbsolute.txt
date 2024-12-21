@@ -1,0 +1,4 @@
+E:\Github\DirectX12\DirectX12project\x64\Debug\D3D12\D3D12Core.dll
+E:\Github\DirectX12\DirectX12project\x64\Debug\D3D12\D3D12Core.pdb
+E:\Github\DirectX12\DirectX12project\x64\Debug\D3D12\D3D12SDKLayers.dll
+E:\Github\DirectX12\DirectX12project\x64\Debug\D3D12\D3D12SDKLayers.pdb
