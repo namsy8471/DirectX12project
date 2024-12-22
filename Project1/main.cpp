@@ -155,8 +155,8 @@ public:
 
     void Render()
     {
-        RenderClearColorTutorial();
-        //RenderTriangleTutorial();
+        //RenderClearColorTutorial();
+        RenderTriangleTutorial();
     }
 };
 
