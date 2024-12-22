@@ -1,8 +1,8 @@
 ﻿  main.cpp
      E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.lib 라이브러리 및 E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.exp 개체를 생성하고 있습니다.
   코드를 생성하고 있습니다.
-  1 of 2252 functions (<0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    10 functions had inline decision re-evaluated but remain unchanged
+  64 of 2224 functions ( 2.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   Project1.vcxproj -> E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.exe

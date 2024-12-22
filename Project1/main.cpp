@@ -155,8 +155,8 @@ public:
 
     void Render()
     {
-        //RenderClearColorTutorial();
-        RenderTriangleTutorial();
+        RenderClearColorTutorial();
+        //RenderTriangleTutorial();
     }
 };
 
@@ -189,7 +189,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT umessage, WPARAM wparam, LPARAM lparam)
 int main()
 {
     std::wstring applicationName = L"D3D12 Tutorial";
-    Uint2 windowSize = { 1920, 1080 };
+    Uint2 windowSize = { 1600, 900 };
     HINSTANCE moduleHandle = GetModuleHandle(nullptr);
 
     WNDCLASSEX wc = { 0 };
