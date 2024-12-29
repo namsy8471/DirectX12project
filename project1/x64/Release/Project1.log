@@ -1,8 +1,8 @@
-﻿  main.cpp
+﻿  WindowManager.cpp
      E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.lib 라이브러리 및 E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.exp 개체를 생성하고 있습니다.
   코드를 생성하고 있습니다.
-  0 of 3979 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  2 of 4010 functions (<0.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    79 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   Project1.vcxproj -> E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.exe

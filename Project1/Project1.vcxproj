@@ -181,6 +181,7 @@
     <ClInclude Include="Renderer.h" />
     <ClInclude Include="Shaders\Shared.h" />
     <ClInclude Include="SimpleMath\SimpleMath.h" />
+    <ClInclude Include="WindowManager.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="D3D12Lite.cpp" />
@@ -213,6 +214,7 @@
     <ClCompile Include="imgui\imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="WindowManager.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
