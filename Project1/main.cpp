@@ -10,18 +10,18 @@ int main()
 	Uint2 windowSize = { 1600, 900 };
 	HINSTANCE moduleHandle = GetModuleHandle(nullptr);
 
-	std::unique_ptr<WindowManager> windowManager = std::make_unique<WindowManager>(applicationName, windowSize);
-	if (!windowManager->Initialize(moduleHandle))
+	WindowManager windowManager = WindowManager(applicationName, windowSize);
+	if (!windowManager.Initialize(moduleHandle))
 	{
 		return - 1;
 	}
 
-	std::unique_ptr<Renderer> renderer = std::make_unique<Renderer>(windowManager->GetWindowHandle(), windowSize);
+	std::unique_ptr<Renderer> renderer = std::make_unique<Renderer>(windowManager.GetWindowHandle(), windowSize);
 
 	bool isRunning = true;
 	while (isRunning)
 	{
-		isRunning = windowManager->ProcessMessages();
+		isRunning = windowManager.ProcessMessages();
 
 		renderer->Render();
 	}
