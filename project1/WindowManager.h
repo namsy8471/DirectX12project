@@ -9,10 +9,10 @@ class WindowManager
 private:
 	static LRESULT CALLBACK WndProc(HWND hwnd, UINT umessage, WPARAM wparam, LPARAM lparam);
 
-	std::wstring m_applicationName;
-	D3D12Lite::Uint2 m_windowSize;
-	HWND m_windowHandle = nullptr;
-	HINSTANCE m_moduleHandle = nullptr;
+	std::wstring mApplicationName;
+	D3D12Lite::Uint2 mWindowSize;
+	HWND mWindowHandle = nullptr;
+	HINSTANCE mModuleHandle = nullptr;
 
 public:
 	WindowManager(const std::wstring& applicationName, const D3D12Lite::Uint2& windowSize);
@@ -20,7 +20,7 @@ public:
 
 	bool Initialize(HINSTANCE moduleHandle);
 	bool ProcessMessages();
-	HWND GetWindowHandle() const { return m_windowHandle; }
+	HWND GetWindowHandle() const { return mWindowHandle; }
 };
 
 #endif // WINDOW_MANAGER_H
