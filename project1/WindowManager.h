@@ -11,6 +11,7 @@ private:
 
 	std::wstring mApplicationName;
 	D3D12Lite::Uint2 mWindowSize;
+	
 	HWND mWindowHandle = nullptr;
 	HINSTANCE mModuleHandle = nullptr;
 

@@ -19,6 +19,7 @@ E:\Github\DirectX12\DirectX12project\project1\DXTex\DirectXTexResize.cpp;E:\Gith
 E:\Github\DirectX12\DirectX12project\project1\DXTex\DirectXTexTGA.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\DirectXTexTGA.obj
 E:\Github\DirectX12\DirectX12project\project1\DXTex\DirectXTexUtil.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\DirectXTexUtil.obj
 E:\Github\DirectX12\DirectX12project\project1\DXTex\DirectXTexWIC.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\DirectXTexWIC.obj
+E:\Github\DirectX12\DirectX12project\project1\GameObject.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\GameObject.obj
 E:\Github\DirectX12\DirectX12project\project1\imgui\imgui.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\imgui.obj
 E:\Github\DirectX12\DirectX12project\project1\imgui\imgui_demo.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\imgui_demo.obj
 E:\Github\DirectX12\DirectX12project\project1\imgui\imgui_draw.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\imgui_draw.obj
@@ -28,4 +29,5 @@ E:\Github\DirectX12\DirectX12project\project1\imgui\imgui_tables.cpp;E:\Github\D
 E:\Github\DirectX12\DirectX12project\project1\imgui\imgui_widgets.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\imgui_widgets.obj
 E:\Github\DirectX12\DirectX12project\project1\main.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\main.obj
 E:\Github\DirectX12\DirectX12project\project1\Renderer.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\Renderer.obj
+E:\Github\DirectX12\DirectX12project\project1\Transform.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\Transform.obj
 E:\Github\DirectX12\DirectX12project\project1\WindowManager.cpp;E:\Github\DirectX12\DirectX12project\project1\x64\Release\WindowManager.obj

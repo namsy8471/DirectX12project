@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\DirectX12">
       <UniqueIdentifier>{910b959c-1d5e-492d-b99e-c077f886fbb8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="헤더 파일\Components">
+      <UniqueIdentifier>{74c0dece-3567-4768-91d8-cda7c8dcf141}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Components">
+      <UniqueIdentifier>{3e38cfef-8b75-4627-adfb-83250cc2a067}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -150,6 +156,15 @@
     <ClCompile Include="WindowManager.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>소스 파일\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>소스 파일\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>소스 파일\Components</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="imgui\imconfig.h">
@@ -220,6 +235,15 @@
     </ClInclude>
     <ClInclude Include="WindowManager.h">
       <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>헤더 파일\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>헤더 파일\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>헤더 파일\Components</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

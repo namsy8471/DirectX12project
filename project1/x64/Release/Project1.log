@@ -1,8 +1,75 @@
-﻿  main.cpp
-     E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.lib 라이브러리 및 E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.exp 개체를 생성하고 있습니다.
-  코드를 생성하고 있습니다.
-  19 of 3999 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    86 functions had inline decision re-evaluated but remain unchanged
-  코드를 생성했습니다.
-  Project1.vcxproj -> E:\Github\DirectX12\DirectX12project\x64\Release\DirectX12.exe
+﻿  The vcpkg manifest was disabled, but we found a manifest file in E:\Github\DirectX12\DirectX12project\. You may want to enable vcpkg manifests in your properties page or pass /p:VcpkgEnableManifest=true to the msbuild invocation.
+  D3D12Lite.cpp
+  D3D12MemAlloc.cpp
+  BC.cpp
+  BC4BC5.cpp
+  BC6HBC7.cpp
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1000,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1019,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1036,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1261,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1263,17): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1834,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1886,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(1953,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2054,21): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2185,25): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2186,25): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2187,25): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2225,25): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2226,25): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2227,25): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2254,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2259,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2261,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2460,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2499,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2510,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2515,21): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2524,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2531,21): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2540,21): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2561,5): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2656,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2667,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2694,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2729,13): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2766,17): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2788,17): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2795,17): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2797,17): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+E:\Github\DirectX12\DirectX12project\project1\DXTex\BC6HBC7.cpp(2803,9): warning C5033: 'register'은(는) 더 이상 지원되는 스토리지 클래스가 아닙니다.
+  BCDirectCompute.cpp
+  DirectXTexCompress.cpp
+  DirectXTexCompressGPU.cpp
+  DirectXTexConvert.cpp
+  DirectXTexD3D11.cpp
+  DirectXTexDDS.cpp
+  DirectXTexFlipRotate.cpp
+  DirectXTexImage.cpp
+  DirectXTexMipmaps.cpp
+  DirectXTexMisc.cpp
+  DirectXTexNormalMaps.cpp
+  DirectXTexPMAlpha.cpp
+  DirectXTexResize.cpp
+  DirectXTexTGA.cpp
+  DirectXTexUtil.cpp
+  컴파일하고 있습니다...
+  DirectXTexWIC.cpp
+  GameObject.cpp
+E:\Github\DirectX12\DirectX12project\project1\GameObject.h(12,12): error C2079: 'GameObject::mTransform'은(는) 정의되지 않은 class 'Transform'을(를) 사용합니다.
+  (소스 파일 'GameObject.cpp'을(를) 컴파일하는 중)
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  Model.cpp
+E:\Github\DirectX12\DirectX12project\project1\Model.cpp(7,10): error C1083: 포함 파일을 열 수 없습니다. 'assimp/Importer.hpp': No such file or directory
+  Renderer.cpp
+  Transform.cpp
+  WindowManager.cpp

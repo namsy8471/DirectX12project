@@ -1,5 +1,6 @@
 #pragma once
 #include "D3D12Lite.h"
+#include "d3d12.h"
 
 using namespace D3D12Lite;
 
